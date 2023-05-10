@@ -10,7 +10,7 @@ div3.classList.add('column','is-three-fifths','is-offset-one-fifth');
 const div4 = document.createElement('div');
 div4.classList.add('card','has-background-warning-light');
 const div5 = document.createElement('div');
-div5.classList.add('card-content');
+div5.classList.add('card-content','p-5');
 const h1 = document.createElement('h1');
 h1.classList.add('title','is-3');
 const p = document.createElement('p');
